@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "773320616885",
+    "firebase_url": "https://proximity-bacae.firebaseio.com",
+    "project_id": "proximity-bacae",
+    "storage_bucket": "proximity-bacae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773320616885:android:a84569ff3465b498",
+        "android_client_info": {
+          "package_name": "com.estimote.proximitycontent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773320616885-8kod017thmohc2n7ec5nvl9bnvrtpela.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estimote.proximitycontent",
+            "certificate_hash": "ebec2e1fde3ed7fefe4c8089196c14e44f4dba47"
+          }
+        },
+        {
+          "client_id": "773320616885-o7orlm282cuqv7l8pkrmmq3qq31ngs36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5b_kGcWYlxQRxSTuzhOBhccISgfB2q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773320616885-o7orlm282cuqv7l8pkrmmq3qq31ngs36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773320616885-72ghpfujdkjmg5philj0loaem9eju8ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vyomsarit.student-attendance"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
